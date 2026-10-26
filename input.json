@@ -1,0 +1,12 @@
+{
+  "startUrls": [
+    "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+  ],
+  "maxBooks": 1,
+  "includeReviews": true,
+  "maxReviewsPerBook": 2,
+  "outputMode": "books",
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
